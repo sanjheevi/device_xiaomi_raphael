@@ -50,8 +50,8 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
-
+    GoogleCameraGo
+    
 # Device-specific settings
 PRODUCT_PACKAGES += \
     XiaomiParts
