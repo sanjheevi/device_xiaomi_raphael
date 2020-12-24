@@ -57,6 +57,7 @@ void load_dalvik_properties() {
 
 void load_raphaelglobal() {
     property_override("ro.product.model", "Mi 9T Pro");
+    property_override("ro.product.system.model", "Mi 9T Pro");
     property_override("ro.build.product", "raphael");
     property_override("ro.product.device", "raphael");
     property_override("ro.build.description", "raphael-user 9 PKQ1.181121.001 V10.3.1.0.PFKEUXM release-keys");
@@ -65,6 +66,7 @@ void load_raphaelglobal() {
 
 void load_raphaelin() {
     property_override("ro.product.model", "Redmi K20 Pro");
+    property_override("ro.product.system.model", "Redmi K20 Pro");
     property_override("ro.build.product", "raphaelin");
     property_override("ro.product.device", "raphaelin");
     property_override("ro.build.description", "raphaelin-user 9 PKQ1.181121.001 V10.3.3.0.PFKINXM release-keys");
@@ -73,6 +75,7 @@ void load_raphaelin() {
 
 void load_raphael() {
     property_override("ro.product.model", "Redmi K20 Pro");
+    property_override("ro.product.system.model", "Redmi K20 Pro");
     property_override("ro.build.product", "raphael");
     property_override("ro.product.device", "raphael");
     property_override("ro.build.description", "raphael-user 9 PKQ1.181121.001 V10.3.12.0.PFKCNXM release-keys");
