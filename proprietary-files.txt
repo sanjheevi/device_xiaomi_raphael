@@ -65,7 +65,6 @@ product/framework/com.qualcomm.qti.uceservice-V2.0-java.jar
 product/framework/com.qualcomm.qti.uceservice-V2.1-java.jar
 product/framework/vendor.qti.ims.callinfo-V1.0-java.jar
 product/framework/vendor.qti.ims.rcsconfig-V1.0-java.jar
--product/priv-app/ims/ims.apk|70d0bdc659e3e85d4e817d9c6f293225cbcab820
 product/lib64/com.qualcomm.qti.imscmservice@1.0.so
 product/lib64/com.qualcomm.qti.imscmservice@2.0.so
 product/lib64/com.qualcomm.qti.imscmservice@2.1.so
@@ -162,3 +161,7 @@ product/framework/qcrilhook.jar
 
 # Soter
 -app/SoterService/SoterService.apk
+
+# Telephony - from LA.QSSI.11.0.r1-07800-qssi.0.
+-system_ext/framework/qti-telephony-common.jar|7d684c5220f5a2a5778bac40f95d852de68dd1a6
+-system_ext/priv-app/ims/ims.apk|61507a8ad66f4f299fe66e11ff71eeb3e2fe5259
