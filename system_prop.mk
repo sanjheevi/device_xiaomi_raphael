@@ -87,6 +87,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.radio.force_on_dc=true \
     persist.vendor.radio.redir_party_num=1 \
     persist.vendor.radio.report_codec=1 \
+    persist.vendor.radio.report_codec=1 \
+    persist.vendor.ims.disableADBLogs=1 \
+    persist.vendor.ims.disableDebugLogs=1 \
+    persist.vendor.ims.disableIMSLogs=1 \
+    persist.vendor.ims.disableQXDMLogs=1 \
     telephony.lteOnCdmaDevice=1
 
 # RCS
