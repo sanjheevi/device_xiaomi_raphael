@@ -25,3 +25,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.low_ram=false \
     ro.lmk.log_stats=true
+
+# Dex2oat
+PRODUCT_PRODUCT_PROPERTIES += \
+     dalvik.vm.dex2oat64.enabled=true
