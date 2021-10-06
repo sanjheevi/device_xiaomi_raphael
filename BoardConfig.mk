@@ -100,11 +100,11 @@ BOARD_HAS_QCA_FM_SOC := "cherokee"
 BOARD_HAVE_QCOM_FM := true
 
 # FOD
-TARGET_SURFACEFLINGER_FOD_LIB := //$(DEVICE_PATH):libfod_extension.raphael
+TARGET_SURFACEFLINGER_UDFPS_LIB := //$(DEVICE_PATH):libudfps_extension.raphael
 
 # HIDL
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE := $(DEVICE_PATH)/framework_compatibility_matrix.xml
-DEVICE_FRAMEWORK_MANIFEST_FILE := $(DEVICE_PATH)/framework_manifest.xml
+# DEVICE_FRAMEWORK_MANIFEST_FILE := $(DEVICE_PATH)/framework_manifest.xml
 
 # Init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_raphael
