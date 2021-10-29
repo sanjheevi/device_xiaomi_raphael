@@ -1,7 +1,12 @@
 [
-  {
-    "repository"  : "vendor_xiaomi_raphael",
-    "target_path" : "vendor/xiaomi",
-    "branch"      : "12"
-  }
+   {
+      "repository":"vendor_xiaomi_raphael",
+      "target_path":"vendor/xiaomi",
+      "branch":"12"
+   },
+   {
+      "repository":"device_xiaomi_extras",
+      "target_path":"device/xiaomi/extras",
+      "branch":"12"
+   }
 ]
