@@ -2,6 +2,6 @@
   {
     "repository"  : "vendor_xiaomi_raphael",
     "target_path" : "vendor/xiaomi",
-    "branch"      : "r"
+    "branch"      : "12"
   }
 ]
