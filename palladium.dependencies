@@ -3,30 +3,12 @@
       "remote":"github",
       "repository":"zoldycc/vendor_xiaomi_raphael",
       "target_path":"vendor/xiaomi",
-      "branch":"12"
+      "branch":"12.1"
    },
    {
       "remote":"github",
       "repository":"PalladiumOS-Devices/device_xiaomi_extras",
       "target_path":"device/xiaomi/extras",
-      "branch":"12"
-   },
-   {
-      "remote":"github",
-      "repository":"ArrowOS/android_hardware_qcom_audio",
-      "target_path":"hardware/qcom-caf/sm8150/audio",
-      "branch":"arrow-12.0-caf-sm8150"
-   },
-   {
-      "remote":"github",
-      "repository":"ArrowOS/android_hardware_qcom_display",
-      "target_path":"hardware/qcom-caf/sm8150/display",
-      "branch":"arrow-12.0-caf-sm8150"
-   },
-   {
-      "remote":"github",
-      "repository":"ArrowOS/android_hardware_qcom_media",
-      "target_path":"hardware/qcom-caf/sm8150/media",
-      "branch":"arrow-12.0-caf-sm8150"
+      "branch":"12.1"
    }
 ]
